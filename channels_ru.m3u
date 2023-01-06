@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1,Zee TV
+http://79.141.211.254:8000/ZeeTV
+#EXTINF:-1,Звезда
+http://79.141.211.254:8000/Zvezda
+#EXTINF:-1,Время: далекое и близкое
+http://79.141.211.254:8000/Vremya
+#EXTINF:-1,Viasat Nature
+http://79.141.211.254:8000/ViasatNature
+#EXTINF:-1,Viasat Sport
+http://79.141.211.254:8000/ViasatSport
+#EXTINF:-1,Viasat History
+http://79.141.211.254:8000/ViasatHistory
+#EXTINF:-1,Viasat Nature/History HD
+http://79.141.211.254:8000/ViasatNatureHD
+#EXTINF:-1,TiJi
+http://79.141.211.254:8000/Tiji
+#EXTINF:-1,ТВ-3
+http://79.141.211.254:8000/TV3
+#EXTINF:-1,TV 1000
+http://79.141.211.254:8000/TV1000
+#EXTINF:-1,TV 1000 Action
+http://79.141.211.254:8000/TV1000Action
+#EXTINF:-1,ТНТ
+http://79.141.211.254:8000/TNT
+#EXTINF:-1,Сарафан
+http://79.141.211.254:8000/Sarafan
+#EXTINF:-1,СТС
+http://79.141.211.254:8000/STS
+#EXTINF:-1,Россия 24
+http://79.141.211.254:8000/Russia24
+#EXTINF:-1,РЕН ТВ
+http://79.141.211.254:8000/RenTV
+#EXTINF:-1,RU.TV
+http://79.141.211.254:8000/RUTV
+#EXTINF:-1,РБК-ТВ
+http://79.141.211.254:8000/RBK
+#EXTINF:-1,Первый канал
+http://79.141.211.254:8000/Perviy
+#EXTINF:-1,Тайны Галактики
+http://79.141.211.254:8000/Outdoor
+#EXTINF:-1,ОТР
+http://79.141.211.254:8000/OTR
+#EXTINF:-1,Наука
+http://79.141.211.254:8000/Nauka
+#EXTINF:-1,НТВ
+http://79.141.211.254:8000/NTV
+#EXTINF:-1,НСТ
+http://79.141.211.254:8000/NST
+#EXTINF:-1,Моя Планета
+http://79.141.211.254:8000/MoyaPlaneta
+#EXTINF:-1,Москва 24
+http://79.141.211.254:8000/Moskva24
+#EXTINF:-1,МИР 24
+http://79.141.211.254:8000/Mir
+#EXTINF:-1,КИНО ТВ
+http://79.141.211.254:8000/KinoTV
+#EXTINF:-1,KHL
+http://79.141.211.254:8000/KHL
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://79.141.211.254:8000/IndiaTV
+#EXTINF:-1,Иллюзион+
+http://79.141.211.254:8000/Illusion+
+#EXTINF:-1,Gulli Girl
+http://79.141.211.254:8000/Gulli
+#EXTINF:-1,ПЯТНИЦА
+http://79.141.211.254:8000/Friday
+#EXTINF:-1,ЕвроКино
+http://79.141.211.254:8000/Evrokino
+#EXTINF:-1,Дом Кино
+http://79.141.211.254:8000/DomKino
+#EXTINF:-1,СОЛНЦЕ
+http://79.141.211.254:8000/Disney
+#EXTINF:-1,BRIDGE
+http://79.141.211.254:8000/BridgeTV
+#EXTINF:-1,ABTO24
+http://79.141.211.254:8000/Avto24
+#EXTINF:-1,A1
+http://79.141.211.254:8000/Amedia1
+#EXTINF:-1,A2
+http://79.141.211.254:8000/Amedia2
+#EXTINF:-1,Пятый канал
+http://79.141.211.254:8000/5kanal
+#EXTINF:-1,2X2
+http://79.141.211.254:8000/2x2
+#EXTINF:-1,Уникум
+http://79.141.211.254:8000/Unikum
+#EXTINF:-1,Barely legal
+http://79.141.211.254:8000/Barely
+#EXTINF:-1,Авто Плюс
+http://79.141.211.254:8000/AvtoPlus
+#EXTINF:-1,Blue Hustler
+http://79.141.211.254:8000/Blue
+#EXTINF:-1,ДОМАШНИЕ ЖИВОТНЫЕ
+http://79.141.211.254:8000/DomashnieZhivotnye
+#EXTINF:-1,КИНОСЕМЬЯ
+http://79.141.211.254:8000/KinoSemia
+#EXTINF:-1,Hollywood
+http://79.141.211.254:8000/Hollywood
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://79.141.211.254:8000/KinoKomedia
+#EXTINF:-1,МАТЧ!
+http://79.141.211.254:8000/Match
+#EXTINF:-1,Мультимузыка
+http://79.141.211.254:8000/MultiMuzika
+#EXTINF:-1,Мосфильм. Золотая Коллекция
+http://79.141.211.254:8000/Mosfilm
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://79.141.211.254:8000/MatchFutbol1
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://79.141.211.254:8000/MuzhKino
+#EXTINF:-1,Моя стихия
+http://79.141.211.254:8000/Morskoy
+#EXTINF:-1,Дом Кино Премиум HD
+http://79.141.211.254:8000/DomKinoPremiumHD
+#EXTINF:-1,ПOЕХАЛИ!
+http://79.141.211.254:8000/Poehali
+#EXTINF:-1,Россия 1
+http://79.141.211.254:8000/Russ1
+#EXTINF:-1,THT HD
+http://79.141.211.254:8000/TNTHD
+#EXTINF:-1,Red Lips
+http://79.141.211.254:8000/RedLips
+#EXTINF:-1,ПОБЕДА
+http://79.141.211.254:8000/Victory
+#EXTINF:-1,Travel+Adventure
+http://79.141.211.254:8000/Travel
+#EXTINF:-1,ТВЦ
+http://79.141.211.254:8000/TVCH
