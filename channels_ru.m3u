@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Первый канал
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1,Россия 1
 https://salam-2-46.rutube.ru/dive/river-7-702.rutube.ru/p6vMG5Xy8jRhOFLDpP3bJQ/stream/genetta-502.ost.rutube.ru/oiK3O58ipv7CrdNGvHB9ug/1684028582/03929f2f53f4eeb0c9095043d6c55096/720p_stream.m3u8
 #EXTINF:-1,PTP-Planeta
