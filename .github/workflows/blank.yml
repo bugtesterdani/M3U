@@ -8,3 +8,7 @@ jobs:
     runs-on: self-hosted
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
+    - run: Invoke-WebRequest -Uri https://iptv-russia.org/list/iptv-playlist.m3u -OutFile channels_ru.m3u
+    - run: git add .
+    - run: git commit -m "Workflow Commit"
+    - run: git push origin main
